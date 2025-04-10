@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Audio2"
+    },
+    {
+      "id": "2",
+      "name": "Accessories"
+    },
+    {
+      "id": "3",
+      "name": "Display"
+    },
+    {
+      "id": "4",
+      "name": "Furniture"
+    },
+    {
+      "id": "5",
+      "name": "Storage"
+    },
+    {
+      "id": "6",
+      "name": "Mobile Accessories"
+    },
+    {
+      "id": "7",
+      "name": "Wearables"
+    },
+    {
+      "id": "8",
+      "name": "Gaming"
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Premium Headphones",
+      "price": 149.99,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "categoryId": 2
+    },
+    {
+      "id": "3",
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "categoryId": 2
+    },
+    {
+      "id": "4",
+      "name": "4K Monitor",
+      "price": 399.99,
+      "categoryId": 3
+    },
+    {
+      "id": "5",
+      "name": "Gaming Chair",
+      "price": 199.99,
+      "categoryId": 4
+    },
+    {
+      "id": "6",
+      "name": "External SSD",
+      "price": 129.99,
+      "categoryId": 5
+    },
+    {
+      "id": "7",
+      "name": "Smartphone Stand",
+      "price": 19.99,
+      "categoryId": 6
+    },
+    {
+      "id": "8",
+      "name": "Portable Charger",
+      "price": 49.99,
+      "categoryId": 6
+    },
+    {
+      "id": "9",
+      "name": "Bluetooth Speaker",
+      "price": 59.99,
+      "categoryId": 1
+    },
+    {
+      "id": "10",
+      "name": "Webcam",
+      "price": 79.99,
+      "categoryId": 2
+    },
+    {
+      "id": "11",
+      "name": "Laptop Stand",
+      "price": 39.99,
+      "categoryId": 2
+    },
+    {
+      "id": "12",
+      "name": "USB-C Hub",
+      "price": 24.99,
+      "categoryId": 2
+    },
+    {
+      "id": "13",
+      "name": "Noise Cancelling Headphones",
+      "price": 249.99,
+      "categoryId": 1
+    },
+    {
+      "id": "14",
+      "name": "Ergonomic Mouse Pad",
+      "price": 14.99,
+      "categoryId": 2
+    },
+    {
+      "id": "15",
+      "name": "Wireless Keyboard",
+      "price": 49.99,
+      "categoryId": 2
+    },
+    {
+      "id": "16",
+      "name": "Smartwatch",
+      "price": 199.99,
+      "categoryId": 7
+    },
+    {
+      "id": "17",
+      "name": "Fitness Tracker",
+      "price": 99.99,
+      "categoryId": 7
+    },
+    {
+      "id": "18",
+      "name": "VR Headset",
+      "price": 299.99,
+      "categoryId": 8
+    },
+    {
+      "id": "19",
+      "name": "Gaming Mouse",
+      "price": 69.99,
+      "categoryId": 8
+    },
+    {
+      "id": "20",
+      "name": "Desk Organizer",
+      "price": 34.99,
+      "categoryId": 4
+    },
+    {
+      "id": "21",
+      "name": "LED Desk Lamp",
+      "price": 44.99,
+      "categoryId": 4
+    },
+    {
+      "id": "22",
+      "name": "Streaming Microphone",
+      "price": 109.99,
+      "categoryId": 1
+    },
+    {
+      "id": "23",
+      "name": "Portable Projector",
+      "price": 259.99,
+      "categoryId": 3
+    },
+    {
+      "id": "24",
+      "name": "USB Flash Drive 128GB",
+      "price": 19.99,
+      "categoryId": 5
+    },
+    {
+      "id": "25",
+      "name": "Phone Camera Lens Kit",
+      "price": 34.99,
+      "categoryId": 6
+    },
+    {
+      "id": "f42a",
+      "category": 7,
+      "price": 12312,
+      "name": "asda",
+      "isInCart": false
+    },
+    {
+      "id": "7def",
+      "category": 8,
+      "price": 123,
+      "name": "asd",
+      "isInCart": false
+    }
+  ]
+}

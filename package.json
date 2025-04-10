@@ -1,0 +1,18 @@
+{
+  "name": "matajer_x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"pnpm --filter frontend dev\" \"cd backend && pnpm dev\"",
+    "install": "pnpm --filter frontend install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.0",
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
